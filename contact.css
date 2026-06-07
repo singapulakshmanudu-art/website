@@ -1,0 +1,297 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 {
+    width: 99vw;
+    height: 10vh;
+    background-color: rgb(1, 1, 27);
+    display: flex;
+    color: white;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    margin-left: 15px;
+}
+
+.a:hover {
+    color: yellow;
+}
+
+.h1 {
+    margin: 10px;
+    font-size: 25px;
+}
+
+.p1 {
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.div2 {
+    width: 99vw;
+    height: 50vh;
+    background-image: url(https://cdn.pixabay.com/photo/2020/03/07/11/54/the-fog-4909513_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+}
+
+.div3 {
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.div4 {
+    display: flex;
+}
+
+.div5 {
+    width: 300px;
+    height: 150px;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.div5:hover {
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+
+.div6 {
+    width: 99vw;
+    height: 110vh;
+    background-color: aliceblue;
+}
+
+.div7 {
+    width: 300px;
+    height: 90vh;
+    margin: 15px;
+}
+
+form {
+    margin: 10px;
+}
+
+.name {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.name1 {
+    width: 270px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button {
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button:hover {
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+
+.p3 {
+    margin: 20px;
+}
+
+.div8 {
+    width: 500px;
+    height: 90vh;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 15px;
+    background-color: white;
+}
+
+.div9 {
+    margin: 10px;
+}
+
+.img1 {
+    width: 470px;
+    height: 45vh;
+    border-radius: 10px;
+}
+
+.map {
+    margin: 20px;
+}
+
+.location {
+    width: 95vw;
+    height: 60vh;
+    border-radius: 10px;
+}
+
+.div11 {
+    width: 99vw;
+    height: 40vh;
+    background-color: aliceblue;
+}
+
+.div12 {
+    display: flex;
+}
+
+.div13 {
+    width: 300px;
+    height: 20vh;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.div14 {
+    margin: 10px;
+}
+
+.div13:hover {
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+
+.div15 {
+    width: 250px;
+    height: 10vh;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(1, 1, 48);
+    margin: 15px;
+}
+
+.p5 {
+    text-align: center;
+}
+
+.div15:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    background-color: yellow;
+    color: black;
+}
+
+.div28 {
+    width: 99vw;
+    height: 90vh;
+    background-color: rgb(1, 1, 36);
+}
+
+.div26 {
+    background-color: rgb(5, 5, 102);
+    padding-bottom: 50px;
+}
+
+.div29 {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    color: white;
+}
+
+.div30 {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    color: white;
+    vertical-align: middle;
+    margin: 20px;
+}
+
+.div27 {
+    padding: 0px;
+}
+
+.h5 {
+    color: yellow;
+}
+
+.p15:hover {
+    transform: translate(0px, -5px);
+    transition: 1s;
+}
+
+.p13 {
+    color: white;
+    text-align: center;
+}
+
+.p16 {
+    display: flex;
+    margin: 10px;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+}
+
+.button {
+    background-color: yellow;
+    color: black;
+    border-radius: 50px;
+    padding: 15px;
+    font-size: 20px;
+    margin-left: 330px;
+}
+
+.button:hover {
+    transform: translate(0px, -10px);
+    transition: 2s;
+}
+
+.h3 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.name3 {
+    width: 200px;
+    height: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.p15 {
+    width: 300px;
+    height: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: yellow;
+}
+
+.p15:hover {
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+
+.div32 {
+    margin-left: 140px;
+}

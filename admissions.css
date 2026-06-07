@@ -1,0 +1,265 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 {
+    width: 99vw;
+    height: 10vh;
+    background-color: rgb(1, 1, 27);
+    display: flex;
+    color: white;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    margin-left: 15px;
+}
+
+.a:hover {
+    color: yellow;
+}
+
+.h1 {
+    margin: 10px;
+    font-size: 25px;
+}
+
+.p1 {
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.div2 {
+    width: 99vw;
+    height: 50vh;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2019/08/09/23/11/forest-4395986_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+}
+
+.div3 {
+    width: 99wh;
+    height: 50px;
+    vertical-align: middle;
+    padding: 40px;
+    color: white;
+}
+
+.h2 {
+    color: rgb(27, 27, 114);
+    text-align: center;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.div4 {
+    padding-top: 30px;
+}
+
+.div5 {
+    display: flex;
+}
+
+.div6 {
+    width: 200px;
+    height: 210px;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 40px;
+    text-align: center;
+}
+
+.p3 {
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+    color: black;
+    margin-left: 40px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.div6:hover {
+    transform: translate(0px, -10px);
+    transition: 2s;
+}
+
+.div7 {
+    display: flex;
+}
+
+.div8 {
+    width: 410px;
+    height: 200px;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.under {
+    color: rgb(23, 23, 112);
+    margin: 20px;
+}
+
+.div9 {
+    width: 99vw;
+    height: 350px;
+    background-color: aliceblue;
+}
+
+.div10 {
+    width: 95vw;
+    height: 980px;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.field {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.button {
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.name {
+    width: 800px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button:hover {
+    transform: translate(0px, -10px);
+    transition: 2s;
+}
+
+.div11 {
+    display: flex;
+}
+
+.div12 {
+    width: 270px;
+    height: 150px;
+    box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.div13 {
+    margin: 10px;
+}
+
+.div12:hover {
+    transform: translate(0px, -10px);
+    transition: 2s;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px rgb(243, 238, 238);
+}
+
+th {
+    width: 480px;
+    background-color: rgb(5, 5, 46);
+    color: white;
+    padding: 10px;
+}
+
+.div14 {
+    margin: 20px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: aliceblue;
+}
+
+.h3 {
+    color: rgb(33, 33, 143);
+}
+
+.div28 {
+    width: 99vw;
+    height: 50vh;
+    background-color: rgb(1, 1, 36);
+}
+
+.div29 {
+    margin: 30px;
+    color: white;
+    display: flex;
+}
+
+.div30 {
+    width: 350px;
+    height: 50px;
+    color: white;
+    margin: 20px;
+}
+
+.h5 {
+    color: yellow;
+}
+
+.p15:hover {
+    transform: translate(0px, -5px);
+    transition: 1s;
+}
+
+.p13 {
+    color: white;
+    text-align: center;
+    background-color: rgb(1, 1, 36);
+    margin-top: 220px;
+    padding: 8px;
+}
+
+.p16 {
+    display: flex;
+    margin: 10px;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+}
+
+.button {
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.button:hover {
+    transform: translate(0px, -10px);
+    transition: 2s;
+}

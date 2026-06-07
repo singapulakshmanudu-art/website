@@ -1,0 +1,319 @@
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        .div1 {
+            width: 99vw;
+            height: 10vh;
+            background-color: rgb(1, 1, 27);
+            display: flex;
+            color: white;
+            align-items: center;
+            position: sticky;
+            top: 0px;
+            z-index: 1;
+        }
+        
+        .a {
+            text-decoration: none;
+            margin: 10px;
+            color: white;
+            margin-left: 15px;
+        }
+        
+        .a:hover {
+            color: yellow;
+        }
+        
+        .h1 {
+            margin: 10px;
+            font-size: 25px;
+        }
+        
+        .p1 {
+            width: 100px;
+            height: 30px;
+            background-color: yellow;
+            border-radius: 5px;
+            color: black;
+            text-align: center;
+            margin-left: 40px;
+        }
+        
+        .div2 {
+            width: 99vw;
+            height: 50vh;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6aJY6ZtmQa-uU_K8RTp1NsjeWBf_kcoDPg&s);
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin-top: 0px;
+        }
+        
+        .div3 {
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        
+        .h2 {
+            color: blue;
+            text-align: center;
+        }
+        
+        .p2 {
+            text-align: center;
+        }
+        
+        .div4 {
+            display: flex;
+            margin: 10px;
+        }
+        
+        .img1 {
+            width: 60vh;
+            height: 350px;
+            border-radius: 10px;
+            margin: 20px;
+        }
+        
+        .div5 {
+            width: 70vh;
+            height: 250px;
+            margin-top: 20px;
+        }
+        
+        .h3 {
+            color: blue;
+        }
+        
+        ul {
+            list-style-type: square;
+        }
+        
+        .div6 {
+            display: flex;
+            margin: 10px;
+        }
+        
+        .div7 {
+            width: 30vw;
+            height: 50vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 10px;
+        }
+        
+        .div8 {
+            margin: 10px;
+        }
+        
+        .img2 {
+            width: 30vw;
+            height: 30vh;
+            border-radius: 10px 10px 0px 0px;
+        }
+        
+        .div7:hover {
+            transform: translate(0px, -10px);
+            transition: 2s;
+        }
+        
+        .div9 {
+            width: 25vw;
+            height: 20vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 10px;
+        }
+        
+        .div9:hover {
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        
+        .div10 {
+            width: 25vw;
+            height: 40vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 25px;
+        }
+        
+        .div12 {
+            display: flex;
+            width: 99vw;
+            height: 60vh;
+            background-color: aliceblue;
+        }
+        
+        .div10:hover,
+        .img3:hover {
+            transform: translate(0px, -10px);
+            transition: 2s;
+        }
+        
+        .img3 {
+            width: 25vw;
+            height: 30vh;
+            border-radius: 10px 10px 0px 0px;
+        }
+        
+        .img3:hover {
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        
+        .div11 {
+            width: 30vw;
+            height: 25vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 25px;
+        }
+        
+        .div11:hover {
+            transform: translate(0px, -10px);
+            transition: 2s;
+        }
+        
+        .div13 {
+            display: flex;
+        }
+        
+        .div14 {
+            width: 280px;
+            height: 180px;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 10px;
+        }
+        
+        .img4 {
+            width: 280px;
+            height: 180px;
+            border-radius: 10px;
+        }
+        
+        .div14:hover {
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        
+        .div15 {
+            width: 280px;
+            height: 190px;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 10px;
+            margin: 15px;
+            padding: 10px;
+        }
+        
+        .p6 {
+            width: 70px;
+            height: 70px;
+            background-color: yellow;
+            margin-left: 100px;
+            background-image: url(https://media.istockphoto.com/id/2181735944/photo/natural-mountains-landscapes.jpg?s=612x612&w=0&k=20&c=4EZdF1438jegkW3U8h0TG4JaPO_cpMMBY-MouwLlyf4=);
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 50px;
+        }
+        
+        .p7 {
+            width: 70px;
+            height: 70px;
+            background-color: yellow;
+            margin-left: 100px;
+            background-image: url(https://static.vecteezy.com/system/resources/thumbnails/026/565/412/small/macro-shot-of-green-leaves-with-water-droplets-dew-or-rain-drop-on-them-green-leaf-nature-forest-concept-by-ai-generated-free-photo.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 50px;
+        }
+        
+        .p8 {
+            width: 70px;
+            height: 70px;
+            background-color: yellow;
+            margin-left: 100px;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaq66kFcrjKojvtUhbc-8gmbzg2l64-nXutg&s);
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 50px;
+        }
+        
+        .div15:hover {
+            transform: translate(0px, -10px);
+            transition: 2s;
+        }
+        
+        .div16 {
+            width: 99vw;
+            height: 110vh;
+            background-color: aliceblue;
+        }
+        
+        video {
+            width: 90vw;
+            height: 80vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 20px;
+            margin-left: 15px;
+        }
+        
+        .div17 {
+            width: 20vw;
+            height: 20vh;
+            box-shadow: 5px 5px 5px 5px rgb(158, 151, 151);
+            border-radius: 20px;
+            margin: 20px;
+        }
+        
+        .div17:hover {
+            transform: scale(1.1);
+            transition: 2s;
+        }
+        
+        .div28 {
+            width: 99vw;
+            height: 50vh;
+            background-color: rgb(1, 1, 36);
+        }
+        
+        .div29 {
+            margin: 30px;
+            color: white;
+            display: flex;
+        }
+        
+        .div30 {
+            width: 350px;
+            height: 50px;
+            color: white;
+            margin: 20px;
+        }
+        
+        .h5 {
+            color: yellow;
+        }
+        
+        .p15:hover {
+            transform: translate(0px, -5px);
+            transition: 1s;
+        }
+        
+        .p13 {
+            color: white;
+            text-align: center;
+            background-color: rgb(1, 1, 36);
+            margin-top: 220px;
+            padding: 8px;
+        }
+        
+        .p16 {
+            display: flex;
+            margin: 10px;
+            vertical-align: middle;
+            text-align: center;
+            align-items: center;
+        }
